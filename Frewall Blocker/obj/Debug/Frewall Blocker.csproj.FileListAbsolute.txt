@@ -1,0 +1,11 @@
+c:\users\an\documents\visual studio 2015\Projects\Frewall Blocker\Frewall Blocker\bin\Debug\Frewall Blocker.exe.config
+c:\users\an\documents\visual studio 2015\Projects\Frewall Blocker\Frewall Blocker\obj\Debug\Interop.NetFwTypeLib.dll
+c:\users\an\documents\visual studio 2015\Projects\Frewall Blocker\Frewall Blocker\obj\Debug\Frewall Blocker.csproj.ResolveComReference.cache
+c:\users\an\documents\visual studio 2015\Projects\Frewall Blocker\Frewall Blocker\obj\Debug\Frewall_Blocker.FirewallBlocker.resources
+c:\users\an\documents\visual studio 2015\Projects\Frewall Blocker\Frewall Blocker\obj\Debug\Frewall_Blocker.Properties.Resources.resources
+c:\users\an\documents\visual studio 2015\Projects\Frewall Blocker\Frewall Blocker\obj\Debug\Frewall Blocker.csproj.GenerateResource.Cache
+c:\users\an\documents\visual studio 2015\Projects\Frewall Blocker\Frewall Blocker\bin\Debug\Frewall Blocker.exe
+c:\users\an\documents\visual studio 2015\Projects\Frewall Blocker\Frewall Blocker\bin\Debug\Frewall Blocker.pdb
+c:\users\an\documents\visual studio 2015\Projects\Frewall Blocker\Frewall Blocker\obj\Debug\Frewall Blocker.exe
+c:\users\an\documents\visual studio 2015\Projects\Frewall Blocker\Frewall Blocker\obj\Debug\Frewall Blocker.pdb
+C:\Users\AN\Documents\Visual Studio 2015\Projects\Frewall Blocker\Frewall Blocker\obj\Debug\Frewall Blocker.csprojResolveAssemblyReference.cache
